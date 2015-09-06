@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 5a0a8210c2c13384cae34bc9409efcae
+timeCreated: 1439538640
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AM98_005_fire_eu_black_plastic
+    100002: AM98_005_fire_eu_black_shiny
+    100004: AM98_005_fire_eu_blinds
+    100006: AM98_005_fire_eu_blinkers
+    100008: AM98_005_fire_eu_blue_glass
+    100010: AM98_005_fire_eu_bolts_fl
+    100012: AM98_005_fire_eu_bolts_fr
+    100014: AM98_005_fire_eu_bolts_rl
+    100016: AM98_005_fire_eu_bolts_rr
+    100018: AM98_005_fire_eu_carpaint
+    100020: AM98_005_fire_eu_chrome
+    100022: AM98_005_fire_eu_chrome_squares
+    100024: AM98_005_fire_eu_chrome_stripes
+    100026: AM98_005_fire_eu_glass
+    100028: AM98_005_fire_eu_grill
+    100030: AM98_005_fire_eu_headlights_glass
+    100032: AM98_005_fire_eu_ladder
+    100034: AM98_005_fire_eu_marker_lights
+    100036: AM98_005_fire_eu_metal
+    100038: AM98_005_fire_eu_orange
+    100040: AM98_005_fire_eu_orange_light
+    100042: AM98_005_fire_eu_red_light
+    100044: AM98_005_fire_eu_register_plate
+    100046: AM98_005_fire_eu_rim_cap_fl
+    100048: AM98_005_fire_eu_rim_cap_fr
+    100050: AM98_005_fire_eu_rim_cap_rl
+    100052: AM98_005_fire_eu_rim_cap_rr
+    100054: AM98_005_fire_eu_rim_fl
+    100056: AM98_005_fire_eu_rim_fr
+    100058: AM98_005_fire_eu_rim_rl
+    100060: AM98_005_fire_eu_rim_rr
+    100062: AM98_005_fire_eu_rubber
+    100064: AM98_005_fire_eu_scania_logo
+    100066: AM98_005_fire_eu_silver
+    100068: AM98_005_fire_eu_tire_fl
+    100070: AM98_005_fire_eu_tire_fr
+    100072: AM98_005_fire_eu_tire_rl
+    100074: AM98_005_fire_eu_tire_rr
+    100076: AM98_005_fire_eu_white_light
+    100078: bashou
+    100080: black plastic
+    100082: black plastic 1
+    100084: blackplastic
+    100086: blackplastic 1
+    100088: blackplastic_
+    100090: //RootNode
+    100092: luoshuan
+    100094: shuipaozui
+    100096: wheelox
+    100098: wheelox1
+    100100: zuoyi
+    400000: AM98_005_fire_eu_black_plastic
+    400002: AM98_005_fire_eu_black_shiny
+    400004: AM98_005_fire_eu_blinds
+    400006: AM98_005_fire_eu_blinkers
+    400008: AM98_005_fire_eu_blue_glass
+    400010: AM98_005_fire_eu_bolts_fl
+    400012: AM98_005_fire_eu_bolts_fr
+    400014: AM98_005_fire_eu_bolts_rl
+    400016: AM98_005_fire_eu_bolts_rr
+    400018: AM98_005_fire_eu_carpaint
+    400020: AM98_005_fire_eu_chrome
+    400022: AM98_005_fire_eu_chrome_squares
+    400024: AM98_005_fire_eu_chrome_stripes
+    400026: AM98_005_fire_eu_glass
+    400028: AM98_005_fire_eu_grill
+    400030: AM98_005_fire_eu_headlights_glass
+    400032: AM98_005_fire_eu_ladder
+    400034: AM98_005_fire_eu_marker_lights
+    400036: AM98_005_fire_eu_metal
+    400038: AM98_005_fire_eu_orange
+    400040: AM98_005_fire_eu_orange_light
+    400042: AM98_005_fire_eu_red_light
+    400044: AM98_005_fire_eu_register_plate
+    400046: AM98_005_fire_eu_rim_cap_fl
+    400048: AM98_005_fire_eu_rim_cap_fr
+    400050: AM98_005_fire_eu_rim_cap_rl
+    400052: AM98_005_fire_eu_rim_cap_rr
+    400054: AM98_005_fire_eu_rim_fl
+    400056: AM98_005_fire_eu_rim_fr
+    400058: AM98_005_fire_eu_rim_rl
+    400060: AM98_005_fire_eu_rim_rr
+    400062: AM98_005_fire_eu_rubber
+    400064: AM98_005_fire_eu_scania_logo
+    400066: AM98_005_fire_eu_silver
+    400068: AM98_005_fire_eu_tire_fl
+    400070: AM98_005_fire_eu_tire_fr
+    400072: AM98_005_fire_eu_tire_rl
+    400074: AM98_005_fire_eu_tire_rr
+    400076: AM98_005_fire_eu_white_light
+    400078: bashou
+    400080: black plastic
+    400082: black plastic 1
+    400084: blackplastic
+    400086: blackplastic 1
+    400088: blackplastic_
+    400090: //RootNode
+    400092: luoshuan
+    400094: shuipaozui
+    400096: wheelox
+    400098: wheelox1
+    400100: zuoyi
+    2300000: AM98_005_fire_eu_black_plastic
+    2300002: AM98_005_fire_eu_black_shiny
+    2300004: AM98_005_fire_eu_blinds
+    2300006: AM98_005_fire_eu_blinkers
+    2300008: AM98_005_fire_eu_blue_glass
+    2300010: AM98_005_fire_eu_bolts_fl
+    2300012: AM98_005_fire_eu_bolts_fr
+    2300014: AM98_005_fire_eu_bolts_rl
+    2300016: AM98_005_fire_eu_bolts_rr
+    2300018: AM98_005_fire_eu_carpaint
+    2300020: AM98_005_fire_eu_chrome
+    2300022: AM98_005_fire_eu_chrome_squares
+    2300024: AM98_005_fire_eu_chrome_stripes
+    2300026: AM98_005_fire_eu_glass
+    2300028: AM98_005_fire_eu_grill
+    2300030: AM98_005_fire_eu_headlights_glass
+    2300032: AM98_005_fire_eu_ladder
+    2300034: AM98_005_fire_eu_marker_lights
+    2300036: AM98_005_fire_eu_metal
+    2300038: AM98_005_fire_eu_orange
+    2300040: AM98_005_fire_eu_orange_light
+    2300042: AM98_005_fire_eu_red_light
+    2300044: AM98_005_fire_eu_register_plate
+    2300046: AM98_005_fire_eu_rim_cap_fl
+    2300048: AM98_005_fire_eu_rim_cap_fr
+    2300050: AM98_005_fire_eu_rim_cap_rl
+    2300052: AM98_005_fire_eu_rim_cap_rr
+    2300054: AM98_005_fire_eu_rim_fl
+    2300056: AM98_005_fire_eu_rim_fr
+    2300058: AM98_005_fire_eu_rim_rl
+    2300060: AM98_005_fire_eu_rim_rr
+    2300062: AM98_005_fire_eu_rubber
+    2300064: AM98_005_fire_eu_scania_logo
+    2300066: AM98_005_fire_eu_silver
+    2300068: AM98_005_fire_eu_tire_fl
+    2300070: AM98_005_fire_eu_tire_fr
+    2300072: AM98_005_fire_eu_tire_rl
+    2300074: AM98_005_fire_eu_tire_rr
+    2300076: AM98_005_fire_eu_white_light
+    2300078: bashou
+    2300080: black plastic 1
+    2300082: blackplastic 1
+    2300084: blackplastic_
+    2300086: shuipaozui
+    2300088: zuoyi
+    3300000: AM98_005_fire_eu_black_plastic
+    3300002: AM98_005_fire_eu_black_shiny
+    3300004: AM98_005_fire_eu_blinds
+    3300006: AM98_005_fire_eu_blinkers
+    3300008: AM98_005_fire_eu_blue_glass
+    3300010: AM98_005_fire_eu_bolts_fl
+    3300012: AM98_005_fire_eu_bolts_fr
+    3300014: AM98_005_fire_eu_bolts_rl
+    3300016: AM98_005_fire_eu_bolts_rr
+    3300018: AM98_005_fire_eu_carpaint
+    3300020: AM98_005_fire_eu_chrome
+    3300022: AM98_005_fire_eu_chrome_squares
+    3300024: AM98_005_fire_eu_chrome_stripes
+    3300026: AM98_005_fire_eu_glass
+    3300028: AM98_005_fire_eu_grill
+    3300030: AM98_005_fire_eu_headlights_glass
+    3300032: AM98_005_fire_eu_ladder
+    3300034: AM98_005_fire_eu_marker_lights
+    3300036: AM98_005_fire_eu_metal
+    3300038: AM98_005_fire_eu_orange
+    3300040: AM98_005_fire_eu_orange_light
+    3300042: AM98_005_fire_eu_red_light
+    3300044: AM98_005_fire_eu_register_plate
+    3300046: AM98_005_fire_eu_rim_cap_fl
+    3300048: AM98_005_fire_eu_rim_cap_fr
+    3300050: AM98_005_fire_eu_rim_cap_rl
+    3300052: AM98_005_fire_eu_rim_cap_rr
+    3300054: AM98_005_fire_eu_rim_fl
+    3300056: AM98_005_fire_eu_rim_fr
+    3300058: AM98_005_fire_eu_rim_rl
+    3300060: AM98_005_fire_eu_rim_rr
+    3300062: AM98_005_fire_eu_rubber
+    3300064: AM98_005_fire_eu_scania_logo
+    3300066: AM98_005_fire_eu_silver
+    3300068: AM98_005_fire_eu_tire_fl
+    3300070: AM98_005_fire_eu_tire_fr
+    3300072: AM98_005_fire_eu_tire_rl
+    3300074: AM98_005_fire_eu_tire_rr
+    3300076: AM98_005_fire_eu_white_light
+    3300078: bashou
+    3300080: black plastic 1
+    3300082: blackplastic 1
+    3300084: blackplastic_
+    3300086: shuipaozui
+    3300088: zuoyi
+    4300000: AM98_005_fire_eu_headlights_glass
+    4300002: AM98_005_fire_eu_black_plastic
+    4300004: AM98_005_fire_eu_glass
+    4300006: AM98_005_fire_eu_chrome_stripes
+    4300008: AM98_005_fire_eu_blinds
+    4300010: AM98_005_fire_eu_metal
+    4300012: AM98_005_fire_eu_ladder
+    4300014: AM98_005_fire_eu_silver
+    4300016: AM98_005_fire_eu_chrome_squares
+    4300018: AM98_005_fire_eu_blue_glass
+    4300020: AM98_005_fire_eu_marker_lights
+    4300022: AM98_005_fire_eu_chrome
+    4300024: AM98_005_fire_eu_scania_logo
+    4300026: AM98_005_fire_eu_tire_fl
+    4300028: AM98_005_fire_eu_tire_fr
+    4300030: AM98_005_fire_eu_tire_rl
+    4300032: AM98_005_fire_eu_tire_rr
+    4300034: AM98_005_fire_eu_register_plate
+    4300036: AM98_005_fire_eu_white_light
+    4300038: AM98_005_fire_eu_red_light
+    4300040: AM98_005_fire_eu_blinkers
+    4300042: AM98_005_fire_eu_orange_light
+    4300044: AM98_005_fire_eu_orange
+    4300046: AM98_005_fire_eu_grill
+    4300048: AM98_005_fire_eu_rubber
+    4300050: AM98_005_fire_eu_carpaint
+    4300052: AM98_005_fire_eu_rim_fr
+    4300054: AM98_005_fire_eu_rim_rr
+    4300056: AM98_005_fire_eu_rim_rl
+    4300058: AM98_005_fire_eu_rim_fl
+    4300060: AM98_005_fire_eu_rim_cap_fr
+    4300062: AM98_005_fire_eu_rim_cap_fl
+    4300064: zuoyi
+    4300066: black plastic
+    4300068: blackplastic_
+    4300070: AM98_005_fire_eu_black_shiny
+    4300072: blackplastic
+    4300074: AM98_005_fire_eu_bolts_fr
+    4300076: AM98_005_fire_eu_bolts_fl
+    4300078: AM98_005_fire_eu_rim_cap_rl
+    4300080: AM98_005_fire_eu_bolts_rl
+    4300082: AM98_005_fire_eu_rim_cap_rr
+    4300084: AM98_005_fire_eu_bolts_rr
+    4300086: shuipaozui
+    4300088: bashou
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 68801e8bdcf8ddb469bdb984406537ea
+timeCreated: 1439516737
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: robot_Arc02
+    100004: robot_Arc03
+    100006: robot_Arc04
+    100008: robot_Box01
+    100010: robot_Box02
+    100012: robot_Box09
+    100014: robot_Box10
+    100016: robot_Box11
+    100018: robot_Box12
+    100020: robot_Box13
+    100022: robot_BY01
+    100024: robot_BY03
+    100026: robot_BY04
+    100028: robot_BY05
+    100030: robot_BY06
+    100032: robot_BY07
+    100034: robot_Cylinder02
+    100036: robot_Cylinder04
+    100038: robot_Cylinder07
+    100040: robot_Cylinder13
+    100042: robot_Cylinder14
+    100044: robot_Cylinder15
+    100046: robot_Cylinder16
+    100048: robot_Cylinder17
+    100050: robot_Cylinder19
+    100052: robot_cylinder20
+    100054: robot_Cylinedr21Box018
+    100056: robot_L-Ext01
+    400000: //RootNode
+    400002: robot_Arc02
+    400004: robot_Arc03
+    400006: robot_Arc04
+    400008: robot_Box01
+    400010: robot_Box02
+    400012: robot_Box09
+    400014: robot_Box10
+    400016: robot_Box11
+    400018: robot_Box12
+    400020: robot_Box13
+    400022: robot_BY01
+    400024: robot_BY03
+    400026: robot_BY04
+    400028: robot_BY05
+    400030: robot_BY06
+    400032: robot_BY07
+    400034: robot_Cylinder02
+    400036: robot_Cylinder04
+    400038: robot_Cylinder07
+    400040: robot_Cylinder13
+    400042: robot_Cylinder14
+    400044: robot_Cylinder15
+    400046: robot_Cylinder16
+    400048: robot_Cylinder17
+    400050: robot_Cylinder19
+    400052: robot_cylinder20
+    400054: robot_Cylinedr21Box018
+    400056: robot_L-Ext01
+    2300000: robot_Arc02
+    2300002: robot_Arc03
+    2300004: robot_Arc04
+    2300006: robot_Box01
+    2300008: robot_Box02
+    2300010: robot_Box09
+    2300012: robot_Box10
+    2300014: robot_Box11
+    2300016: robot_Box12
+    2300018: robot_Box13
+    2300020: robot_BY01
+    2300022: robot_BY03
+    2300024: robot_BY04
+    2300026: robot_BY05
+    2300028: robot_BY06
+    2300030: robot_BY07
+    2300032: robot_Cylinder02
+    2300034: robot_Cylinder04
+    2300036: robot_Cylinder07
+    2300038: robot_Cylinder13
+    2300040: robot_Cylinder14
+    2300042: robot_Cylinder15
+    2300044: robot_Cylinder16
+    2300046: robot_Cylinder17
+    2300048: robot_Cylinder19
+    2300050: robot_cylinder20
+    2300052: robot_Cylinedr21Box018
+    2300054: robot_L-Ext01
+    3300000: robot_Arc02
+    3300002: robot_Arc03
+    3300004: robot_Arc04
+    3300006: robot_Box01
+    3300008: robot_Box02
+    3300010: robot_Box09
+    3300012: robot_Box10
+    3300014: robot_Box11
+    3300016: robot_Box12
+    3300018: robot_Box13
+    3300020: robot_BY01
+    3300022: robot_BY03
+    3300024: robot_BY04
+    3300026: robot_BY05
+    3300028: robot_BY06
+    3300030: robot_BY07
+    3300032: robot_Cylinder02
+    3300034: robot_Cylinder04
+    3300036: robot_Cylinder07
+    3300038: robot_Cylinder13
+    3300040: robot_Cylinder14
+    3300042: robot_Cylinder15
+    3300044: robot_Cylinder16
+    3300046: robot_Cylinder17
+    3300048: robot_Cylinder19
+    3300050: robot_cylinder20
+    3300052: robot_Cylinedr21Box018
+    3300054: robot_L-Ext01
+    4300000: robot_Arc02
+    4300002: robot_Arc03
+    4300004: robot_Arc04
+    4300006: robot_Box01
+    4300008: robot_Box02
+    4300010: robot_Box09
+    4300012: robot_Box10
+    4300014: robot_Box11
+    4300016: robot_Box12
+    4300018: robot_Box13
+    4300020: robot_BY01
+    4300022: robot_BY03
+    4300024: robot_BY04
+    4300026: robot_BY05
+    4300028: robot_BY06
+    4300030: robot_BY07
+    4300032: robot_Cylinder02
+    4300034: robot_Cylinder04
+    4300036: robot_Cylinder07
+    4300038: robot_Cylinder13
+    4300040: robot_Cylinder14
+    4300042: robot_Cylinder15
+    4300044: robot_Cylinder16
+    4300046: robot_Cylinder17
+    4300048: robot_Cylinder19
+    4300050: robot_cylinder20
+    4300052: robot_Cylinedr21Box018
+    4300054: robot_L-Ext01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
