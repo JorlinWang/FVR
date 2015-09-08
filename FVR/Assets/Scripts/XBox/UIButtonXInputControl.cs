@@ -4,7 +4,7 @@ using XInputDotNetPure;
 using System.Collections.Generic;
 using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.VR;
-using System.Collections.Generic;
+// using System.Collections.Generic;
 using System;
 
 public enum UIItemsState{
